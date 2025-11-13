@@ -13,5 +13,8 @@
     "node-vexflow": "^0.1.2",
     "react-vexflow": "^0.0.4",
     "vexflow": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
   }
 }

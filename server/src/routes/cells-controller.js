@@ -1,6 +1,6 @@
 import express from 'express';
 import { v4 as uuidv4 } from 'uuid';
-import MelodicCellService from '../services/melodicCellService.js';
+import MelodicCellService from '../services/melodic-cell-service.js';
 // import getAllCells from '../services/melodicCellService.js';
 
 const melodicCellService = new MelodicCellService();

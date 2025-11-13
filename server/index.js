@@ -1,6 +1,6 @@
-import userRoutes from './src/routes/usersController.js'
-import melodicCellRoutes from './src/routes/cellsController.js'
-import boplineRoutes from './src/routes/boplinesController.js'
+import userRoutes from './src/routes/users-controller.js'
+import melodicCellRoutes from './src/routes/cells-controller.js'
+import boplineRoutes from './src/routes/boplines-controller.js'
 import express from 'express';
 import bodyParser from 'body-parser'
 
